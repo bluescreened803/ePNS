@@ -5,7 +5,7 @@
 This repository contains: 
 + code for ePNS website
 + android studio files for ePNS apps. 
-+ prebuilt android apk files for ePNS apps.
++ prebuilt android apk files for ePNS apps (Note: May not work as intended due to network resources being located in different placed). 
 + files for build guide. 
 ## Links
 Check out our build guide here. 
