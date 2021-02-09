@@ -4,8 +4,8 @@
 
 This repository contains: 
 + code for ePNS website with corresponding licences.
-+ android studio files for ePNS apps. 
-+ prebuilt android apk files for ePNS apps (Note: May not work as intended due to network resources being located in a different place). 
++ Android Studio files for ePNS apps. 
++ prebuilt Android .apk files for ePNS apps (Note: May not work as intended due to network resources being located in a different place). 
 + files for build guide. 
 ## Links
 Check out our build guide [here](https://github.com/bluescreened803/ePNS/blob/main/ePNS%20Build%20Guide.md). 
