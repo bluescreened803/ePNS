@@ -8,6 +8,5 @@ This repository contains:
 + prebuilt android apk files for ePNS apps (Note: May not work as intended due to network resources being located in a different place). 
 + files for build guide. 
 ## Links
-Check out our build guide here. 
+Check out our build guide [here](https://github.com/bluescreened803/ePNS/blob/main/ePNS%20Build%20Guide.md). 
 <br /> Read our project summary here. 
-<br /> Watch our project video presentation here. 
