@@ -9,4 +9,4 @@ This repository contains:
 + files for build guide. 
 ## Links
 Check out our build guide [here](https://github.com/bluescreened803/ePNS/blob/main/ePNS%20Build%20Guide.md). 
-<br /> Read our project summary here. 
+<br /> Read our project summary [here](https://github.com/bluescreened803/ePNS/blob/main/ePNS%20Project%20Summary.md). 
