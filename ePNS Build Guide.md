@@ -361,7 +361,7 @@ For the table responses we want the following information:
 The command for creating this table is: 
 
 ```
-CREATE TABLE users (
+CREATE TABLE responses (
     id INT PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(255),
     mobile VARCHAR(255),
@@ -370,7 +370,7 @@ CREATE TABLE users (
     emergency VARCHAR(255),
     need VARCHAR(255),
     peoplenum VARCHAR(255),
-    message VARCHAR(255),
+    message VARCHAR(255)
 );
 ```
 
